@@ -1,0 +1,21 @@
+NPM =>> install the Packages
+NPX =>> Is use to excute the package 
+
+Why React is Fast ?
+#Parcel
+- dev Build 
+- Local sever
+- HMR -> HOT Module Replacment
+- File Watcher ALgorithm -> Writen in C++
+- Caching -> Faster Builds
+- Image Optimization
+- Minification
+- Bundling
+- Compressing
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling -> Support Older Browser
+- Diagbostic
+- Error Handling
+- HTTPs
+- Tree Shacking - remove unused code 
