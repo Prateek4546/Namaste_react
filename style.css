@@ -1,3 +1,15 @@
-#heading{
-    color: rebeccapurple;
+.heading{
+    color: green;
+}
+.title{
+    color: Red;
+}
+
+.logo_img{
+    height: 100px;
+}
+
+.header{
+    height: 100px;
+    border: 1px solid black;
 }

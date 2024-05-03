@@ -4,6 +4,8 @@
   "description": "Namaste React By 1%",
   
   "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
     "test": "jest"
   },
   "keywords": [],
