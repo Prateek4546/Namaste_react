@@ -1,3 +1,9 @@
 What is Package.JSON?
 =>> Package.JSON is a file for configuration of NPM in React Application
     Package = Dependency and NPM use to manage these Package
+
+
+node_moduld is kind of database for packages
+
+
+Transetive Dependency => Dependency need other Dependency  that is called Transetive Dependency
