@@ -1,0 +1,22 @@
+=>>> if I want to start a project of go to package.json and check for Script 
+npm run start = npm start
+
+What is React Element 
+React Element are simler to DOM Element 
+
+const heading = React.createElement("h1" , {id = "heading" , "namaste React"};
+
+
+ReactElement => object =>> when we render on to DOM then it become HTMLElement
+
+
+JSX ==>> Is not part of react facebook developer build this separate 
+JSX is HTML like syntax
+JSX => Parcel(Bable) React.createElement => JS Object => HTML Element(Render)
+js engine not understand these JSX  Babel convert it to understanable for React
+
+
+React  component => is a function that return some pease of jsx code is a funcional component;
+
+Component compositions
+Component inside Component Called Component Composition
